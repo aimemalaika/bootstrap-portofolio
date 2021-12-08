@@ -2,6 +2,11 @@ body {
   color: #1e2823;
 }
 
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
 .nav-link,
 .navbar-brand {
   color: #1e2823;
@@ -18,6 +23,16 @@ body {
 .social-conacts a {
   color: #505f79;
 }
+
 .bg-img h2 {
   color: #36b37e;
+}
+
+.languages li {
+  background-color: #ebf0ee;
+  border-radius: 4px;
+  padding: 8px 12px;
+  margin: 5px;
+  font-size: 12px;
+  font-weight: 600;
 }
