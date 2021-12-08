@@ -17,7 +17,8 @@ ul {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 100vh;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .social-conacts a {
@@ -28,11 +29,9 @@ ul {
   color: #36b37e;
 }
 
-.languages li {
-  background-color: #ebf0ee;
-  border-radius: 4px;
-  padding: 8px 12px;
-  margin: 5px;
-  font-size: 12px;
-  font-weight: 600;
+.btn-close {
+  position: absolute;
+  z-index: 100;
+  top: 2%;
+  right: 2%;
 }
