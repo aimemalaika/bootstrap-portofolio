@@ -36,7 +36,7 @@
 
 - GitHub: [@Banstein](https://github.com/Banstein)
 - Twitter: [@islam_bahnas](https://twitter.com/islam_bahnas)
-- LinkedIn: [islam-bahnas](www.linkedin.com/in/islam-bahnas)
+- LinkedIn: [islam-bahnas](https://linkedin.com/in/islam-bahnas)
 
 
 ## 🤝 Contributing
